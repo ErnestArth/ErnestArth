@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on and build products that are impactful
 - 📫 How to reach me on ernest5arthur@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+  
 
 <!---
 ErnestArth/ErnestArth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
